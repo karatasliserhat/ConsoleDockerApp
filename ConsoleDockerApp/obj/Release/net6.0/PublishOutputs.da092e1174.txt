@@ -1,0 +1,5 @@
+C:\Users\glb90090219\Documents\Tfs\serhatkaratasli\IdentityUserProject\ConsoleDocker\ConsoleDockerApp\bin\Release\net6.0\publish\ConsoleDockerApp.exe
+C:\Users\glb90090219\Documents\Tfs\serhatkaratasli\IdentityUserProject\ConsoleDocker\ConsoleDockerApp\bin\Release\net6.0\publish\ConsoleDockerApp.dll
+C:\Users\glb90090219\Documents\Tfs\serhatkaratasli\IdentityUserProject\ConsoleDocker\ConsoleDockerApp\bin\Release\net6.0\publish\ConsoleDockerApp.deps.json
+C:\Users\glb90090219\Documents\Tfs\serhatkaratasli\IdentityUserProject\ConsoleDocker\ConsoleDockerApp\bin\Release\net6.0\publish\ConsoleDockerApp.runtimeconfig.json
+C:\Users\glb90090219\Documents\Tfs\serhatkaratasli\IdentityUserProject\ConsoleDocker\ConsoleDockerApp\bin\Release\net6.0\publish\ConsoleDockerApp.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rooa46jOR9PChyhNd7ZnxjWpNy6iIVG4nYKYNcX0suOthhvzDJkxfET2X14a0qSxf54MOPfoaMUrsygqJAD7Hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\glb90090219\\Documents\\Tfs\\serhatkaratasli\\IdentityUserProject\\ConsoleDocker\\ConsoleDockerApp\\ConsoleDockerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glb90090219\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}

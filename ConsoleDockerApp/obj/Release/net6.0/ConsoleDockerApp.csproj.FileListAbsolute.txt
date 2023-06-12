@@ -1,0 +1,15 @@
+C:\Users\glb90090219\Documents\Tfs\serhatkaratasli\IdentityUserProject\ConsoleDocker\ConsoleDockerApp\bin\Release\net6.0\ConsoleDockerApp.exe
+C:\Users\glb90090219\Documents\Tfs\serhatkaratasli\IdentityUserProject\ConsoleDocker\ConsoleDockerApp\bin\Release\net6.0\ConsoleDockerApp.deps.json
+C:\Users\glb90090219\Documents\Tfs\serhatkaratasli\IdentityUserProject\ConsoleDocker\ConsoleDockerApp\bin\Release\net6.0\ConsoleDockerApp.runtimeconfig.json
+C:\Users\glb90090219\Documents\Tfs\serhatkaratasli\IdentityUserProject\ConsoleDocker\ConsoleDockerApp\bin\Release\net6.0\ConsoleDockerApp.dll
+C:\Users\glb90090219\Documents\Tfs\serhatkaratasli\IdentityUserProject\ConsoleDocker\ConsoleDockerApp\bin\Release\net6.0\ConsoleDockerApp.pdb
+C:\Users\glb90090219\Documents\Tfs\serhatkaratasli\IdentityUserProject\ConsoleDocker\ConsoleDockerApp\obj\Release\net6.0\ConsoleDockerApp.csproj.AssemblyReference.cache
+C:\Users\glb90090219\Documents\Tfs\serhatkaratasli\IdentityUserProject\ConsoleDocker\ConsoleDockerApp\obj\Release\net6.0\ConsoleDockerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glb90090219\Documents\Tfs\serhatkaratasli\IdentityUserProject\ConsoleDocker\ConsoleDockerApp\obj\Release\net6.0\ConsoleDockerApp.AssemblyInfoInputs.cache
+C:\Users\glb90090219\Documents\Tfs\serhatkaratasli\IdentityUserProject\ConsoleDocker\ConsoleDockerApp\obj\Release\net6.0\ConsoleDockerApp.AssemblyInfo.cs
+C:\Users\glb90090219\Documents\Tfs\serhatkaratasli\IdentityUserProject\ConsoleDocker\ConsoleDockerApp\obj\Release\net6.0\ConsoleDockerApp.csproj.CoreCompileInputs.cache
+C:\Users\glb90090219\Documents\Tfs\serhatkaratasli\IdentityUserProject\ConsoleDocker\ConsoleDockerApp\obj\Release\net6.0\ConsoleDockerApp.dll
+C:\Users\glb90090219\Documents\Tfs\serhatkaratasli\IdentityUserProject\ConsoleDocker\ConsoleDockerApp\obj\Release\net6.0\refint\ConsoleDockerApp.dll
+C:\Users\glb90090219\Documents\Tfs\serhatkaratasli\IdentityUserProject\ConsoleDocker\ConsoleDockerApp\obj\Release\net6.0\ConsoleDockerApp.pdb
+C:\Users\glb90090219\Documents\Tfs\serhatkaratasli\IdentityUserProject\ConsoleDocker\ConsoleDockerApp\obj\Release\net6.0\ConsoleDockerApp.genruntimeconfig.cache
+C:\Users\glb90090219\Documents\Tfs\serhatkaratasli\IdentityUserProject\ConsoleDocker\ConsoleDockerApp\obj\Release\net6.0\ref\ConsoleDockerApp.dll
